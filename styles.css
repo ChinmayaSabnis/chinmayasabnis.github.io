@@ -1,0 +1,108 @@
+/* Tags */
+html{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+
+
+p {
+    font-family: 'ubuntu', sans-serif;}
+
+
+/* classes */
+
+.heading {
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.brand-logo{
+    width: 20px;
+}
+.nav-icons{
+    padding-left: 2%;
+}
+.header{
+    padding: 10px 50px 0px 50px;
+    
+}
+
+.down-btn{
+    padding-top: 5%;
+   
+
+}
+.down-icon{
+    padding-left: 2%;
+
+}
+.container-fluid {
+    text-align: center;
+}
+
+.down-padding{
+    padding-bottom:5% ;
+}
+.down-padding-3{
+    padding-bottom: 2%;
+}
+
+/* .notice{
+    background-color: #caf0f8;
+    padding: 2% 3% 2% 3%;
+} */
+.project-container{   
+    padding:100px 50px 10px 50px ;
+}
+
+
+.experience-container{
+    padding:100px 50px 10px 50px ;
+    background-color: #edf6f9;
+    
+}
+.logo-ex{
+    max-width: 210px;
+    
+}
+.skill-container{
+    padding:100px 50px 10px 50px ;
+    background-color: #edf6f9;
+    
+}
+.tab-col{
+    background-color: #edf6f9;
+}
+.tab-cont-pading{
+    padding: 2% 3% 2% 3%;
+}
+.specialization-container{
+    padding:100px 50px 10px 50px ;
+    background-color: #edf6f9;
+}
+
+
+.container-contact{
+    padding: 10% 15% 1% 15%;
+    text-align: center;
+    /* background-color: #edf6f9; */
+    font-family: 'Poppins', sans-serif;
+    border: 5% 10% 5% 10%;
+
+}
+.cont-from{
+    padding: 3% 15% 1% 15%;
+}
+.ctn-bt{
+    margin:2%;
+    
+}
+.icons{
+    background-color: #edf6f9;
+    
+    padding: 3% 2% 3% 2%;
+}
+
